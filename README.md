@@ -42,7 +42,7 @@ _________________________________________________________________
 
 ## The Dataset 
 
-We have used the [Nottingham Music Database](http://abc.sourceforge.net/NMD/) in **ABC notation** which contains over 1000 folk tunes.
+We have used the [Nottingham Music Database](http://abc.sourceforge.net/NMD/) in [**ABC notation**](https://en.wikipedia.org/wiki/ABC_notation) which contains over 1000 folk tunes.
 
 ## Usage 
 
@@ -66,7 +66,12 @@ Also, to prevent the loss of intermediate weights during the training epochs of 
 
 * [Karpathy's Implementation of Character-RNN](https://github.com/karpathy/char-rnn)
 * [The effectiveness of RNNs by Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-* [MIDI Music Generation](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
-[Source Code](https://github.com/Skuldur/Classical-Piano-Composer)
-* 
-* 
+* [MIDI Music Generation](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)  &rarr;  [Source Code](https://github.com/Skuldur/Classical-Piano-Composer)
+* [Generating Tabla Music Part 1](https://www.trivedigaurav.com/blog/machines-learn-to-play-tabla/)
+* [Generating Tabla Music Part 2](https://www.trivedigaurav.com/blog/machines-learn-to-play-tabla-part-2/)
+* [RNN-composed Tabla Long Composition](https://soundcloud.com/trivedigaurav/char-rnn-composes-long-composition)
+* [NN for Generating Music - Surveyed Blog](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
+* [FolkRNN Irish Folk Music Generator](https://folkrnn.org/)
+* [RNN-composed Piano Music](https://soundcloud.com/sigur-ur-sk-li/neuralnet-music-1)
+* [Google Magenta](https://magenta.tensorflow.org/)
+* [ABC to Sheet Music Converter](https://www.abcjs.net/abcjs-editor.html)
