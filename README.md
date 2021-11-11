@@ -46,7 +46,7 @@ We have used the [Nottingham Music Database](http://abc.sourceforge.net/NMD/) in
 
 ## Usage 
 
-All input data should be placed in the [data/](data/) directory. The example [input.txt](data/input.txt) is taken from the [Nottingham Dataset (Cleaned)](https://github.com/jukedeck/nottingham-dataset).
+All input data should be placed in the [data](data/) directory. The example [input.txt](data/input.txt) is taken from the [Nottingham Dataset (Cleaned)](https://github.com/jukedeck/nottingham-dataset).
 
 To train the model with default settings:
 ```bash
@@ -58,4 +58,10 @@ To sample the model:
 $ python sample.py 100
 ```
 
-Training loss/accuracy is stored in `logs/training_log.csv`.
+Training loss/accuracy is stored in [training_log.csv](logs/training_log.csv).
+
+Also, to prevent the loss of intermediate weights during the training epochs of the model, the weights are saved in the [model](model/) directory. The training process can take a significant amount of time. 
+
+## References 
+
+* 
