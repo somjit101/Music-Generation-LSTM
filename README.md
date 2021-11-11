@@ -64,4 +64,9 @@ Also, to prevent the loss of intermediate weights during the training epochs of 
 
 ## References 
 
+* [Karpathy's Implementation of Character-RNN](https://github.com/karpathy/char-rnn)
+* [The effectiveness of RNNs by Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [MIDI Music Generation](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+[Source Code](https://github.com/Skuldur/Classical-Piano-Composer)
+* 
 * 
